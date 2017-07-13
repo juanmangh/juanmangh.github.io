@@ -37,4 +37,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Contact
 
 Email: juanmghuesca@gmail.com
+
 Linkedin: https://www.linkedin.com/in/juanmangh/
