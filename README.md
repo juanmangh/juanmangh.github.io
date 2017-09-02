@@ -1,6 +1,6 @@
 ## Welcome!
 
-You will find data science related articles and studies about the main algorithms and trends, with some useful applications.
+You will find data science related articles and projects using the main algorithms and techniques.
 
 
 ## Content:
@@ -10,6 +10,8 @@ You will find data science related articles and studies about the main algorithm
 
 
 
+
 ### Contact
 Email: juanmghuesca@gmail.com
+
 Linkedin: https://www.linkedin.com/in/juanmangh/
