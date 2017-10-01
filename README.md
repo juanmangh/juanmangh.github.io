@@ -1,16 +1,28 @@
-## Welcome!
+## Data science for everybody.
 
-You will find data science related articles and projects using the main algorithms and techniques.
+In this website you will find data science related projects and methods using the main algorithms and technologies.
 
 
 ## Content:
-[K-means clustering](juanmangh.github.io/clustering_kmeans.md)
+[CNN text classification model using Word2Vec](https://github.com/juanmangh/CNN-text-classification-with-Word2Vec)
 
-[Test clustering](https://github.com/juanmangh/MyWebsite)
+[Email classification (NLP) with Spark](https://github.com/juanmangh/Email-Classification-NLP-Spark)
+
+[Information Retrieval and Web Search](https://github.com/juanmangh/Information-retrieval-Web-search)
+
+[Data Mining Methods](https://github.com/juanmangh/Data-mining-methods)
+
+[Logistic Regression](https://github.com/juanmangh/Logistic-regression)
+
+[Semantic Web](https://github.com/juanmangh/Semantic-Web-RDF)
 
 
 
 
+
+
+
+###
 ### Contact
 Email: juanmghuesca@gmail.com
 
