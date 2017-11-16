@@ -3,7 +3,9 @@
 In this website you will find data science related projects and methods using the main algorithms and technologies.
 
 
-## Content:
+## Projects:
+[Search engine of NIPS papers with information retrieval techniques and data mining algorithms](https://github.com/juanmangh/WebInformationRetrievalProjectNIPS)
+
 [CNN text classification model using Word2Vec](https://github.com/juanmangh/CNN-text-classification-with-Word2Vec)
 
 [Email classification (NLP) with Spark](https://github.com/juanmangh/Email-Classification-NLP-Spark)
