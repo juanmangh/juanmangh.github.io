@@ -4,6 +4,8 @@ In this website you will find data science related projects and methods using th
 
 
 ## Projects:
+[Detection of emerging compliance issues by matching structured and unstructured data](https://github.com/juanmangh/Seminar-Data-Mining)
+
 [Search engine of NIPS papers with information retrieval techniques and data mining algorithms](https://github.com/juanmangh/WebInformationRetrievalProjectNIPS)
 
 [CNN text classification model using Word2Vec](https://github.com/juanmangh/CNN-text-classification-with-Word2Vec)
