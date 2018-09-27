@@ -18,7 +18,7 @@ In this website you will find data science related projects and methods using th
 
 [Logistic Regression](https://github.com/juanmangh/Logistic-regression)
 
-[Semantic Web - novel online gambling ontology](https://github.com/juanmangh/Semantic-Web-RDF).
+[Semantic Web - novel online gambling ontology](https://github.com/juanmangh/Semantic-Web-RDF)
 
 
 
