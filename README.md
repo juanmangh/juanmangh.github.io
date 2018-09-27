@@ -10,7 +10,7 @@ In this website you will find data science related projects and methods using th
 
 [CNN text classification model using Word2Vec](https://github.com/juanmangh/CNN-text-classification-with-Word2Vec)
 
-[Email classification (NLP) with Spark](https://github.com/juanmangh/Email-Classification-NLP-Spark)
+[Identification of "ham/spam" keywords for email classification with Spark](https://github.com/juanmangh/Email-Classification-NLP-Spark)
 
 [Information Retrieval and Web Search](https://github.com/juanmangh/Information-retrieval-Web-search)
 
@@ -18,7 +18,7 @@ In this website you will find data science related projects and methods using th
 
 [Logistic Regression](https://github.com/juanmangh/Logistic-regression)
 
-[Semantic Web](https://github.com/juanmangh/Semantic-Web-RDF)
+[Semantic Web - novel online gambling ontology](https://github.com/juanmangh/Semantic-Web-RDF)
 
 
 
