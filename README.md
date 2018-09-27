@@ -1,6 +1,6 @@
 ## Data science for everybody.
 
-In this website you will find data science related projects and methods using the main algorithms and technologies.
+In this website you will find data science related projects using relevant algorithms and technologies.
 
 
 ## Projects:
