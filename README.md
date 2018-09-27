@@ -4,6 +4,9 @@ In this website you will find data science related projects and methods using th
 
 
 ## Projects:
+
+[Framework for multi-view predictive visual analytics for a Customer Due Diligence report](https://github.com/juanmangh/framework-multiview-predictive-visual-analytics)
+
 [Detection of emerging compliance issues by matching structured and unstructured data](https://github.com/juanmangh/Seminar-Data-Mining)
 
 [Search engine of NIPS papers with information retrieval techniques and data mining algorithms](https://github.com/juanmangh/WebInformationRetrievalProjectNIPS)
@@ -16,7 +19,7 @@ In this website you will find data science related projects and methods using th
 
 [Data Mining Methods](https://github.com/juanmangh/Data-mining-methods)
 
-[Logistic Regression](https://github.com/juanmangh/Logistic-regression)
+[Logistic Regression with Gradient Ascent](https://github.com/juanmangh/Logistic-regression)
 
 [Semantic Web - novel online gambling ontology](https://github.com/juanmangh/Semantic-Web-RDF)
 
